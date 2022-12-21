@@ -1,4 +1,4 @@
-export function BDS(graph,hashmap,prevmap,start,target,refArray) {
+export function DFS(graph,hashmap,prevmap,start,target,refArray) {
     let queue=[start]
     let count=0
     hashmap[`${start.x}-${start.y}`]=true
