@@ -36,7 +36,7 @@ export const Navbar = () => {
           
           <select aria-label="Default select example" value={algo} onChange={(e) =>{setAlgo(e.target.value)}}  >
               <option value=''>Choose Algorithm</option>
-              <option value="BDS">BDS</option>
+              <option value="DFS">DFS</option>
               <option value="BFS">BFS</option>
           </select>
           <button type="button" className='btn btn-success' onClick={()=>{setRun((x)=>{return !x})}} >Visualize <i className="bi bi-caret-right"></i> </button>
