@@ -31,10 +31,10 @@
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="assets/ps1.png" alt="screenshot" />
+  <img src="assets/ps1.PNG" alt="screenshot" />
 </div>
 <div align="center"> 
-  <img src="assets/ps2.png" alt="screenshot" />
+  <img src="assets/ps2.PNG" alt="screenshot" />
 </div>
 
 
