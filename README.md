@@ -9,6 +9,10 @@
 </div>
 
 <br />
+<!-- Hosting -->
+## :gear: Hosting
+
+  - Front End  - `Github Pages`
 
 <!-- Table of Contents -->
 # :notebook_with_decorative_cover: Table of Contents
