@@ -1,10 +1,10 @@
 <div align="center">
 
   <img src="assets/algo.png" alt="logo" width="200" height="auto" />
-  <h1>Vision-AI Project</h1>
+  <h1>Algo Pathfinding Visualizer</h1>
    
 <h2>
-    <a href="https://algo-visualizer-board.vercel.app/">Algo Pathfinding Visualizer</a>
+    <a href="https://algo-visualizer-board.vercel.app/">Demo</a>
   </h2>
 </div>
 
