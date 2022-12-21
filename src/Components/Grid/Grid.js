@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
-import { BDS } from '../../Algorithms/Visualize Algorithm/BDS';
+import { DFS } from '../../Algorithms/Visualize Algorithm/DFS';
 import { BFS } from '../../Algorithms/Visualize Algorithm/BFS';
 import { useParams } from '../../context/context';
 import './Grid.css';
@@ -59,7 +59,7 @@ const Grid = () => {
         }
       }
 
-      if(algo === 'BDS')
+      if(algo === 'DFS')
       {
         let hashmap = {};
         let prevmap = {};
@@ -72,7 +72,7 @@ const Grid = () => {
            }
         }
 
-        let result = BDS(grid,hashmap,prevmap,start.current,end.current,refArray);
+        let result = DFS(grid,hashmap,prevmap,start.current,end.current,refArray);
         let path=[];
 
         if(result != null)
